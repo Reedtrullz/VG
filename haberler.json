@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "title": "DETTE ER DEN ØVERSTE SAKEN",
+    "writer": "Skrevet av:",
+    "hour": "XX:XX",
+    "picture": "BILDE LINK",
+    "detail": "Saken blir skrevet her."
+  },
+  {
+    "id": 1,
+    "title": "NEST ØVERSTE",
+    "writer": "Skrevet av:",
+    "hour": "XX:XX",
+    "picture": "BILDE LINK",
+    "detail": "Saken blir skrevet her."
+  },
+  {
+    "id": 3,
+    "title": "NEDERSTE SAKEN",
+    "writer": "Skrevet av:",
+    "hour": "XX:XX",
+    "picture": "BILDE LINK",
+    "detail": "Saken blir skrevet her."
+  }
+]
